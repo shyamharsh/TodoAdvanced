@@ -1,0 +1,26 @@
+#container {
+    padding: 16px;
+  }
+  
+  body {
+    background-color:aliceblue;
+  }
+  
+  h3 {
+    color:blue;
+  }
+  
+  input {
+    padding: 10px;
+    border:2px solid #008080;
+    border-radius: 5px;
+    width: 50%;
+  }
+  
+  li {
+    margin-bottom: 8px;
+  }
+  
+  .delete-button {
+    margin-left: 16px;
+  }
